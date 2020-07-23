@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-This is for devops project
+This is DevOps project
