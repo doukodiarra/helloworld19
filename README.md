@@ -3,4 +3,4 @@
 Simple Maven Project
 
 This is DevOps project
-test
+
